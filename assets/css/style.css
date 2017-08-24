@@ -1,0 +1,53 @@
+ body{
+    background: url(../images/jbackground.jpg);
+    background-size: cover;
+    background-size: 100%;
+    color: black;
+    font-family: Arial,  Helvetica, sans-serif;
+    font-size: 20px;
+    
+}
+* {
+    box-sizing: border-box;
+}
+#logo1 {
+    height: 200px;
+    width: 200px;
+    float:left;
+}
+#logo2 {
+    height: 200px;
+    width: 200px;
+    float:right;
+}
+img { 
+    height: 200px;
+    width: 150px;
+    border:3px solid black;
+}
+.btn {
+    
+    margin: 6px;
+    background-color: #fff;
+    color: #000;
+    border: 2px solid #fff;
+    font-weight: bold;
+    font-family: Arial,  Helvetica, sans-serif;
+    font-size: 20px;
+}
+.gifDiv{
+    
+    float: left;
+    margin: 5px;
+}
+.container {
+    background: #fff;
+    padding: 20px;
+}
+.jumbotron {
+    background-color: inherit;
+    background-image: url(../images/jbackground.jpg);
+    background-size: cover;
+    height: 100%;}
+}
+
